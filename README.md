@@ -2,9 +2,9 @@
 ## Day one
 Learning markdown
 Installing python
-##Day Two
+## Day Two
 Data types 
-##Day three
+## Day three
 Building a simple calculator using python
-##Day four 
+## Day four 
 Building a coplex calculator
