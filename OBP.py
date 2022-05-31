@@ -16,3 +16,10 @@ Dobber_man. barking()
 Dobber_man. eats()
 german_shephered.eats()
 Dodger.eats()
+
+class Person :
+    def __init__(self,name,age)
+      self.name=name
+      self.age=age
+    
+ 
